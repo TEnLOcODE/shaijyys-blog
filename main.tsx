@@ -4,7 +4,7 @@ blog({
   author: "Eitan B.",
   title: "Shaijyy's Blog",
   description: "A place where I'll post daily shit and other cool stuff.\nVersion 1.0.3",
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: "favicon.ico",
   avatarClass: "rounded-full",
   links: [
     { title: "Email", url: "mailto:shaijyy@duck.com" },

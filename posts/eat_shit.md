@@ -6,7 +6,7 @@ snippet: I really like that 🙂
 
 I already got enough "Free Palestine", "Support Gaza", "Israel are Terrorists" emails from pro-palestinian websites that I signed up for before the war started.  
 I don't need you suckers to do it too.  
-Every mail I'll get mentioning Air 💨 I- I MEAN PALESTINE will be blocked and reported as spam to the mail domain admins.  
+Every mail I'll get mentioning Air 💨 I- I MEAN PALESTINE will be blocked and reported as spam to the mail domain admins. ( the text that comes after the "@", E.g. gmail, outlook, yahoo etc. )
 
 Just wanted to say that yes, I DO live in Israel, yes, I AM Jewish and I'm also proud of that.  
 

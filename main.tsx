@@ -2,8 +2,8 @@ import blog, { ga, redirects } from "./blog.tsx";
 
 blog({
   author: "Eitan B.",
-  title: "Shaijyy's Blog",
-  description: "A place where I'll post daily shit and other cool stuff.\nVersion 1.0.3",
+  title: "Shaijyy's Blog ✌️",
+  description: "A place where I'll post daily cool stuff and other things 😅",
   avatar: "favicon.ico",
   avatarClass: "rounded-full",
   links: [
@@ -18,7 +18,8 @@ blog({
   middlewares: [
     ga("UA-XXXXXXXX-X"),
     redirects({
-      "/hello_world.html": "/hello_world",
+      "/intro.html": "/intro",
+      "/eat_shit.html": "/eat_shit",
     }),
   ],
   favicon: "favicon.ico",

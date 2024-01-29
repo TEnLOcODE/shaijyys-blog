@@ -12,5 +12,6 @@ Just wanted to say that yes, I DO live in Israel, yes, I AM Jewish and I'm also 
 
 Now let me **FINALLY** finish my English homework that I have to do before my teacher kicks me out of class.  
 
-Thanks for literally NOTHING,
-Eitan B.
+Thanks for literally NOTHING,  
+The Shaijyy Team  
+( and by team I mean me and my dog 🐶 )

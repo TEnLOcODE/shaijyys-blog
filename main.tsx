@@ -9,7 +9,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:shaijyy@duck.com" },
     { title: "GitHub", url: "https://github.com/TEnLOcODE" },
-    { title: "Twitter", url: "https://twitter.com/EitanBil" },
+    { title: "X", url: "https://x.com/EitanBil" },
   ],
   lang: "en",
   // localised format based on https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat

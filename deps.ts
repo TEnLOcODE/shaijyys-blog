@@ -24,8 +24,6 @@ export {
 import UnoCSS from "https://deno.land/x/htm@0.1.3/plugins/unocss.ts";
 import ColorScheme from "https://deno.land/x/htm@0.1.3/plugins/color-scheme.ts";
 
-import "https://unpkg.com/powerglitch@latest/dist/powerglitch.min.js"
-
 export {
   createReporter,
   type Reporter as GaReporter,

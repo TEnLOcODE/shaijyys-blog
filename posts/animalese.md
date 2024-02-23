@@ -5,15 +5,6 @@ snippet: Animalese, the amazing language created by accident while trying to mak
 author: Eitan B.
 ---
 
-Section | Link
----|---
-Welcome back to the Shaijyy!|[Take me there!](#welcome-back-to-the-shaijyy!)
-What??|[Take me there!](#what??)
-Cool, but what do YOU have to do with this?|[Take me there!](#cool,-but-what-do-YOU-have-to-do-with-this?)
-  
-By the way, I added a feature to my blog!  
-From now on, each post will have a section selector in the top for quick navigation around!  
-  
 # Welcome back to the Shaijyy!  
 We all know and love Nintendo Games,  
 but did you know that this giberish weird language from the Animal Crossing V.G. series,  

@@ -33,7 +33,9 @@ export function Index({ state, posts }: IndexProps) {
   );
 
   return (
-    <div class="home">
+    <script src="https://unpkg.com/powerglitch@latest/dist/powerglitch.min.js"></script>
+    
+    <div class="home glitch">
       {state.header || (
         <header
           class="w-full h-90 lt-sm:h-80 bg-cover bg-center bg-no-repeat"

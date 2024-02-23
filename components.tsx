@@ -1,4 +1,4 @@
-// Copyright 2022 the Deno authors. All rights reserved. MIT license.
+
 
 /** @jsx h */
 /** @jsxFrag Fragment */
@@ -33,8 +33,6 @@ export function Index({ state, posts }: IndexProps) {
   );
 
   return (
-    <script src="https://unpkg.com/powerglitch@latest/dist/powerglitch.min.js"></script>
-    
     <div class="home glitch">
       {state.header || (
         <header

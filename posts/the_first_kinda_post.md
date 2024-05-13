@@ -1,6 +1,6 @@
 ---
 title: The First Post!! (Kinda)
-publish_date: 2024-02-01T00:00:000Z
+publish_date: 2024-02-01 09:00:00 UTC
 snippet: The first post that is actually from the daily posts.
 ---
 
